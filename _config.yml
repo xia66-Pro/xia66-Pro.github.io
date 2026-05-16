@@ -1,0 +1,5 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: 我的小站
+description: 欢迎来到这里，这是我的个人主页。
